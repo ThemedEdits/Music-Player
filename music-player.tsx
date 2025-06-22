@@ -33,7 +33,7 @@ const sampleTracks: Track[] = [
     artist: "Luna Eclipse",
     album: "Nocturnal Vibes",
     duration: 245,
-    coverUrl: "/image.png",
+    coverUrl: "/h (1)",
   },
   {
     id: 2,
@@ -41,7 +41,7 @@ const sampleTracks: Track[] = [
     artist: "Coastal Sounds",
     album: "Nature's Symphony",
     duration: 198,
-    coverUrl: "/placeholder.svg?height=300&width=300",
+    coverUrl: "/h (2)",
   },
   {
     id: 3,
@@ -49,7 +49,7 @@ const sampleTracks: Track[] = [
     artist: "Urban Pulse",
     album: "Metropolitan",
     duration: 267,
-    coverUrl: "/placeholder.svg?height=300&width=300",
+    coverUrl: "/h (3)",
   },
 ]
 
